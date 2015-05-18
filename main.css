@@ -1,0 +1,32 @@
+
+body {
+  font-family: 'Alegreya', serif;
+  background-color: #3A3177;
+}
+h1 {
+	text-align: center;
+	color: #FFD100;
+}
+div {
+	width: 790px;
+	height: 620px;
+	border: #6C6547 3px solid;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFD100;
+}
+
+
+p {
+	width: 23.59%;
+	height: 22.8%;
+	border: #1B00D8 3px solid;
+	float: left;
+	margin: 2.5px;
+	background-color: white;
+	background-size: cover;
+	background-position: 30% 40%;
+	border-radius: 15px;
+}
+
+
